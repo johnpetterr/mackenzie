@@ -1,2 +1,3 @@
-# mackenzie
-Repository designed to store all activities involving Mackenzie University code.
+# Universidade Presbiteriana Mackenzie – Códigos das Atividades
+
+Repositório destinado a armazenar todas as atividades que envolvem código da Universidade Mackenzie.
