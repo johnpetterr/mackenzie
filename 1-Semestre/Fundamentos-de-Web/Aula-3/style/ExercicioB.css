@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+}

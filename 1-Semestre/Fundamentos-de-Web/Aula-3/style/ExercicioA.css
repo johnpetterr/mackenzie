@@ -1,0 +1,11 @@
+p:first-line {
+    text-indent: 40px;
+}
+
+p {
+    letter-spacing: 5px;
+}
+
+h1 {
+    letter-spacing: 8px;
+}
